@@ -1,0 +1,4 @@
+autogen-ext[openai]
+autogen-agentchat
+python-dotenv
+aiohttp==3.11.11
