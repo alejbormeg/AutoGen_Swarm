@@ -34,8 +34,10 @@ All of this happens interactively using OpenAI’s GPT-based agents and the News
 ⚙️ Installation & Setup
 	1.	Clone the repository:
 
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+```bash
+git clone https://github.com/alejbormeg/AutoGen_Swarm.git
+cd AutoGen_Swarm
+```
 
 
 	2.	Create and activate an isolated environment (recommended). You can use either:
